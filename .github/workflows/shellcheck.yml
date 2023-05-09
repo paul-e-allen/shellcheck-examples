@@ -1,9 +1,9 @@
 on:
   push:
     branches:
-      - master
+      - main
 
-name: "ShellCheck: Master Push action"
+name: "ShellCheck: Main branch push action"
 permissions: {}
 
 jobs:
