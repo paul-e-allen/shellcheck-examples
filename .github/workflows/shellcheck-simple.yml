@@ -3,7 +3,7 @@ on:
     branches:
       - main
 
-name: "ShellCheck - basics"
+name: "ShellCheck - simple"
 permissions: {}
 
 jobs:
